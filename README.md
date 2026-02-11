@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Diego! 👋
 
-<!--
-**diegomove/diegomove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at **UPC (FIB)**, specializing in **Computing**. My passion lies at the intersection of **Artificial Intelligence**, **Algorithm Design**, and **Software Engineering**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **AI Recommender Systems** and **Logic Reasoners**.
+- 🌱 I’m currently learning more about **Machine Learning & Data Processing**.
+- 🎓 Specialization: **Computer Science (Computing Track)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+* **Languages:** Python, C++, Java, Prolog, Haskell, SQL.
+* **AI & Data:** Pandas, NumPy, PDDL, Clips, Elastic-search.
+* **Tools:** Git, Linux (WSL), PostgreSQL, MySQL.
+
+---
+
+### 📬 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin/) 
+* [Email](mailto:diegomove@gmail.com)
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomove&show_icons=true&theme=radical)
