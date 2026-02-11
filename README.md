@@ -17,5 +17,5 @@ I'm a Computer Engineering student at **UPC (FIB)**, specializing in **Computing
 ---
 
 ### 📬 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin/) 
+* [LinkedIn](https://www.linkedin.com/in/diego-moreno-vera-a24702181/) 
 * [Email](mailto:diegomove@gmail.com)
