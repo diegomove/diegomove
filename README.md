@@ -19,5 +19,3 @@ I'm a Computer Engineering student at **UPC (FIB)**, specializing in **Computing
 ### 📬 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin/) 
 * [Email](mailto:diegomove@gmail.com)
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomove&show_icons=true&theme=radical)
