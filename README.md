@@ -15,7 +15,6 @@ At LaTroupe Studio, I work on internal BIM automation workflows through LT Tools
 ### Featured Projects
 
 - [FinanceDuo](https://github.com/diegomove/FinanceDuo): Shared finance app for two users with budgeting, split expenses, settlements, dashboard analytics, multilingual UI, and PWA support.
-- LT Tools (private): Internal BIM automation toolkit at LaTroupe Studio.
 - [COMP](https://github.com/diegomove/COMP): Mini Forth interpreter in Python.
 - [A_Proj](https://github.com/diegomove/A_Proj): Team-based algorithmics project in C++.
 
