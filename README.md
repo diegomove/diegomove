@@ -1,15 +1,29 @@
-### Hi there, I'm Diego! 👋
+## Hi, I'm Diego Moreno Vera
 
-I'm a Computer Engineering student at **UPC (FIB)**, specializing in **Computing**. My passion lies at the intersection of **Artificial Intelligence**, **Algorithm Design**, and **Software Engineering**.
+Computer Engineering student at UPC (FIB) and currently a BIM Automation Intern at LaTroupe Studio. I build practical tools with Python, C#, Revit API, pyRevit, and Flask.
 
-### 🛠️ Tech Stack
+### What I Do Currently
 
-* **Languages:** Python, C++, Java, Prolog, Haskell, SQL, HTML, CSS.
-* **AI & Data:** Pandas, NumPy, PDDL, Clips, Elastic-search.
-* **Tools:** Git, Linux, PostgreSQL, MySQL.
+At LaTroupe Studio, I work on internal BIM automation workflows through LT Tools, focusing on pyRevit and Revit API solutions for model cleaning and quality assurance. I also help document technical decisions and adoption guidelines in Confluence so the team can scale these automations across projects.
 
----
+### Current Focus
 
-### 📬 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/diego-moreno-vera/) 
-* [Email] diegomove@gmail.com
+- BIM automation for real architectural workflows
+- Building product-style software projects (including FinanceDuo)
+- Growing toward international software engineering opportunities
+
+### Featured Projects
+
+- [FinanceDuo](https://github.com/diegomove/FinanceDuo): Shared finance app for two users with budgeting, split expenses, settlements, dashboard analytics, multilingual UI, and PWA support.
+- LT Tools (private): Internal BIM automation toolkit at LaTroupe Studio.
+- [COMP](https://github.com/diegomove/COMP): Mini Forth interpreter in Python.
+- [A_Proj](https://github.com/diegomove/A_Proj): Team-based algorithmics project in C++.
+
+### Tech Stack
+
+Python, C#, Flask, SQLite, C++, Java, Prolog, Git, Linux, pyRevit, Revit API, Dynamo, Confluence
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/diegomoreno-vera/)
+- Email: diegomove@gmail.com
