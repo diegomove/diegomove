@@ -20,7 +20,7 @@ At LaTroupe Studio, I work on internal BIM automation workflows through LT Tools
 
 ### Tech Stack
 
-Python, C#, Flask, SQLite, C++, Java, Prolog, Git, Linux, pyRevit, Revit API, Dynamo, Confluence
+Python, C#, Flask, SQLite, C++, Java, Prolog, Git, Linux, pyRevit, n8n, Revit API, Dynamo, Confluence
 
 ### Connect
 
