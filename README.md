@@ -9,7 +9,7 @@ At LaTroupe Studio, I work on internal BIM automation workflows through LT Tools
 ### Current Focus
 
 - BIM automation for real architectural workflows
-- Building product-style software projects (including FinanceDuo)
+- Building product-style software projects
 - Growing toward international software engineering opportunities
 
 ### Featured Projects
@@ -24,5 +24,5 @@ Python, C#, Flask, SQLite, C++, Java, Prolog, Git, Linux, pyRevit, Revit API, Dy
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/diegomoreno-vera/)
+- [LinkedIn](https://www.linkedin.com/in/diego-moreno-vera/)
 - Email: diegomove@gmail.com
